@@ -1,1 +1,1 @@
-alert("hello world!");
+alert("the project is live");
